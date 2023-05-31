@@ -31,8 +31,8 @@ To use the Language Translation API locally, follow these steps:
 ### Usage
 
 1. Start the Flask server:
-2. 
-3. Open your web browser and go to `http://localhost:5000`.
+
+2. Open your web browser and go to `http://localhost:5000`.
 
 3. Enter text in any language in the provided textarea and click the "Translate" button.
 
